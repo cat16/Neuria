@@ -1,1 +1,2 @@
-electron test1.html
+electron .
+exit
